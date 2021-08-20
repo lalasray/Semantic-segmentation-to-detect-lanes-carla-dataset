@@ -16,4 +16,4 @@ CARLA Self Driving Cars Simulator
 Some of the data come from
 https://github.com/ongchinkiat/LyftPerceptionChallenge/releases/download/v0.1/carla-capture-20180513A.zip
 
-Encoder Decoder network is implemented with the help of tensorflow keras for semantic segemntation.
+Encoder Decoder network(segnet) is implemented with the help of tensorflow keras for semantic segemntation.
